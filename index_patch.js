@@ -58,7 +58,7 @@
   // 4. Обновить ticker
   const ticker = document.querySelector('.ticker-inner');
   if (ticker && !ticker.dataset.patched) {
-    ticker.textContent = '〔 Вебе - раб маси 〕                   〔 блеб 〕           〔 Новые разделы вики: Вступление и Дни рождений 〕             〔 Главный проект: пока не анонсирован(но будет) 〕     〔:            ';
+    ticker.textContent = '〔 Вебе Легенда 〕                   〔 Спасибо Вебе 〕                   〔 блеб 〕           〔 Спасибо что зашли 〕             〔 Дальше будут обновления 〕     〔: ';
     ticker.dataset.patched = '1';
   }
 })();
