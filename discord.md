@@ -69,12 +69,12 @@
 
 ## Соцсети
 
-| Соцсеть | Ссылка | Название |
-|--------|----------|----------|
-| ТГК | https://t.me/The_mink_of_darkness | ↓ |
-| Pinterest | https://pin.it/2PbkD1Xq2 | ↓ |
-| Spotify | https://open.spotify.com/user/31xmujqz6rkjgmvm6dn3zq3opq6e | ↓ |
-| instagram(Запрещёная соцсеть на территории РФ) | https://www.instagram.com/darknessfunny?igsh=MTR4c2hiY3prMjM1YQ== | ↓ |
+| Соцсеть | Ссылка |
+|--------|----------|
+| ТГК | https://t.me/The_mink_of_darkness |
+| Pinterest | https://pin.it/2PbkD1Xq2 |
+| Spotify | https://open.spotify.com/user/31xmujqz6rkjgmvm6dn3zq3opq6e |
+| instagram(Запрещёная соцсеть на территории РФ) | https://www.instagram.com/darknessfunny?igsh=MTR4c2hiY3prMjM1YQ== |
 
 **Тут будут написаны ники в тех соцсетях, которые я привел выше, чтобы вы могли меня найти:**
 
